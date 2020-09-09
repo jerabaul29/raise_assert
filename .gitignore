@@ -1,0 +1,6 @@
+*.pyc
+*~
+*.swp
+build/
+dist/
+raise_assert.egg-info/
