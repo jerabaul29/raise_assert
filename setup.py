@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="raise_assert",
-    version="0.1",
+    version="0.2",
     author="Jean Rabault",
     author_email="jean.rblt@gmail.com",
     description="an alternative to assert - guaranteed to raise",
